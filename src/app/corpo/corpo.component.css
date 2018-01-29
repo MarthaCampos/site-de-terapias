@@ -1,0 +1,23 @@
+h1{
+    display: flex;
+    justify-content: center;
+    color: #000080;
+    font-size: 3em;
+    margin: 5%;
+ }
+ 
+ .texto{
+    display: flex;
+    justify-content: space-around;
+    font-size: 1.5em;
+    font-family: 'Monotype Corsiva', sans-serif;
+    
+ }
+ 
+ img{
+ 
+    margin-top: 5px;
+    margin-left: 1px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+ }

@@ -3,11 +3,19 @@ import { NgModule } from '@angular/core';
 
 
 import { AppComponent } from './app.component';
+import { FooterComponent } from './footer/footer.component';
+import { CarouselComponent } from './carousel/carousel.component';
+import { CorpoComponent } from './corpo/corpo.component';
+import { NavComponent } from './nav/nav.component';
 
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    FooterComponent,
+    CarouselComponent,
+    CorpoComponent,
+    NavComponent
   ],
   imports: [
     BrowserModule

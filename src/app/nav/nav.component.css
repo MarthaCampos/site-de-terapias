@@ -1,0 +1,33 @@
+ul {
+   display: flex;
+   font-weight: bold;
+   font-family: 'Monotype Corsiva', sans-serif;
+}
+nav{
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+}
+img{
+   height: 90px;
+   width: 130px;
+   margin-top: 5px;
+   margin-left: 1px;
+
+}  
+a {
+   color:#000080;
+   text-decoration: none;
+   font-size: 1.8em;
+
+   
+}
+
+.direita{
+   margin-right: 10%;
+}
+
+ul a:hover {
+   background-color: #555;
+   color: white;
+}
